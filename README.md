@@ -27,3 +27,9 @@ Aplikasi mobile ini yang dibuat dengan react native digunakan untuk merubah QRIS
 ```bash
 git clone https://github.com/zarlicho/QRIS-CONVERTERAPP.git
 cd QRIS-CONVERTERAPP
+```
+## 📸 Preview Aplikasi
+
+<img src="assets/example1.jpeg" alt="Preview Aplikasi" width="300" />
+<img src="assets/example2.jpeg" alt="Preview Aplikasi" width="300" />
+<img src="assets/example3.jpeg" alt="Preview Aplikasi" width="300" />
